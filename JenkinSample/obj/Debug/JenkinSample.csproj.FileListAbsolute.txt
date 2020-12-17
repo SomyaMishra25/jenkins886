@@ -1,0 +1,7 @@
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\bin\Debug\JenkinSample.exe.config
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\bin\Debug\JenkinSample.exe
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\bin\Debug\JenkinSample.pdb
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\obj\Debug\JenkinSample.csprojAssemblyReference.cache
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\obj\Debug\JenkinSample.csproj.CoreCompileInputs.cache
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\obj\Debug\JenkinSample.exe
+C:\dotnet\devops\day3\JenkinSample\JenkinSample\obj\Debug\JenkinSample.pdb

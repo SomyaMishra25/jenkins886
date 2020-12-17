@@ -11,6 +11,7 @@ namespace JenkinSample
         static void Main(string[] args)
         {
             Console.WriteLine("Hii Jenkins");
+            Console.ReadKey();
         }
     }
 }
